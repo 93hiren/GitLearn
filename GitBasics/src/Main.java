@@ -18,7 +18,7 @@ public class Main {
             }
 
         }
-        System.out.println(sb.toString());
+        System.out.println(sb);
 
         System.out.println("Today I gave 2 interviews for the product company and they offered me 70LPA" +
                 " on 10/26/2026");
