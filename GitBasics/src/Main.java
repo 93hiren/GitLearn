@@ -25,9 +25,9 @@ public class Main {
         System.out.println("Working Sunday and I love it after 1 month or so I will enjoy football" +
                 "and swiming ");
 
-        System.out.println("Gratefull for evrything that happend thank you so much");
+        System.out.println("Gratefull for evrything that happend thank you so much for such divine blessing");
 
-        System.out.println("Sunday : Favorite City Mancity Football Club");
+        System.out.println("Sunday : Favorite City Mancity Football Club and one day I will watch love match in ethiad stadium");
 
     }
 
