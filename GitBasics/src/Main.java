@@ -27,9 +27,7 @@ public class Main {
 
         System.out.println("Merging from third main");
 
-        System.out.println("sunday with football ");
 
-        System.out.println("ThidMain:Missing Kloppe");
 
     }
 
