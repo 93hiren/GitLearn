@@ -25,7 +25,8 @@ public class Main {
         System.out.println("I married the beautifull  Charming young girl who I am truly,deeply " +
                 "and madly in love with her");
 
-        System.out.println("Working Sunday and I love it after 1 month or so I will enjoy football" +
+        System.out.println("Working Sunday and I love " +
+                "it after 1 month or so I will enjoy football" +
                 "and swiming ");
 
         System.out.println("Working on the main branch on Sunday Afternoon its 3.21");
