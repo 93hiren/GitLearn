@@ -27,8 +27,9 @@ public class Main {
                 "and swiming ");
 
         System.out.println("Merging from third main");
+        System.out.println("Gratefull for evrything that happend thank you so much for such divine blessing");
 
-        System.out.println("Sunday : Favorite City Mancity Football Club");
+        System.out.println("Sunday : Favorite City Mancity Football Club and one day I will watch love match in ethiad stadium");
 
 
     }
