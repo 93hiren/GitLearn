@@ -30,6 +30,7 @@ public class Main {
 
         System.out.println("Gratefull for evrything that happend thank you so much");
 
+        System.out.println("Sunday : Favorite City Mancity");
 
     }
 
