@@ -20,10 +20,7 @@ public class Main {
         }
         System.out.println(sb.toString());
 
-        System.out.println("Today I gave 2 interviews for the product company and they offered me 70LPA" +
-                " on 10/26/2026");
-        System.out.println("I married the beautifull  Charming young girl who I am truly,deeply " +
-                "and madly in love with her");
+
 
         System.out.println("Merging from third main");
 
