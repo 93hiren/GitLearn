@@ -32,6 +32,8 @@ public class Main {
         System.out.println("Sunday : Favorite City Mancity Football Club and one day I will watch love match in ethiad stadium");
         System.out.println("Catch Live match Today between Arsnel and Liverpool");
 
+        System.out.println("Today I gave interview with Here technogies managerial round");
+
 
 
 
