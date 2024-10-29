@@ -35,6 +35,17 @@ public class Main {
         System.out.println("Today I gave interview with Here technogies managerial round");
         System.out.println("I got offer letter from EY today");
 
+        System.out.println("Today is dhanteras");
+
+        System.out.println("I will joining EY on Monday 4th November");
+        System.out.println("I will have 10000000rs by 10/29/2025 and I will make lot of money and attract lot of love and wealth in my life");
+
+
+
+
+
+
+
 
 
 
