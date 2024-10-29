@@ -36,6 +36,8 @@ public class Main {
         System.out.println("I am the most hardworking guy on the planet");
         System.out.println("I woke up at 4 am today morning");
 
+        System.out.println("Tuesday still pending task");
+
 
 
 
