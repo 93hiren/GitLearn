@@ -38,6 +38,8 @@ public class Main {
 
         System.out.println("Tuesday still pending task");
 
+        System.out.println("I will work hard");
+
 
 
 
