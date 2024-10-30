@@ -33,6 +33,20 @@ public class Main {
         System.out.println("Catch Live match Today between Arsnel and Liverpool");
 
         System.out.println("Today I gave interview with Here technogies managerial round");
+        System.out.println("I am the most hardworking guy on the planet");
+        System.out.println("I woke up at 4 am today morning");
+
+        System.out.println("Tuesday still pending task");
+
+        System.out.println("I will work hard");
+
+        System.out.println("Thinking of buying a bike and a nice car");
+
+        System.out.println("I am a casanova");
+        System.out.println("I am rich brat Prodigal");
+
+
+
         System.out.println("I got offer letter from EY today");
 
         System.out.println("Today is dhanteras");
