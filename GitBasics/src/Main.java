@@ -40,7 +40,29 @@ public class Main {
 
         System.out.println("I will work hard");
 
+
+        System.out.println("Thinking of buying a bike and a nice car");
+
+        System.out.println("I am a casanova");
+        System.out.println("I am rich brat Prodigal");
+
+
+
+        System.out.println("I got offer letter from EY today");
+
+        System.out.println("Today is dhanteras");
+
+        System.out.println("I will joining EY on Monday 4th November");
+        System.out.println("I will have 10000000rs by 10/29/2025 and " +
+                "I will make lot of money and attract lot of love and wealth in my life");
+        System.out.println("I hope I join Morgan Stanley from 15 Nov 2024");
+
+
+
+
+
         System.out.println("I will buy bike RC/BMW");
+
 
 
 
