@@ -40,6 +40,8 @@ public class Main {
 
         System.out.println("I will work hard");
 
+        System.out.println("I will buy bike RC/BMW");
+
 
 
 
