@@ -42,6 +42,9 @@ public class Main {
 
         System.out.println("Thinking of buying a bike and a nice car");
 
+        System.out.println("I am a casanova");
+        System.out.println("I am rich brat Prodigal");
+
 
 
 
