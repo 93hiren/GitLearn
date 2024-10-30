@@ -26,6 +26,8 @@ public class Main {
 
         System.out.println("echo \"This is branch 1's change.\" >> example.txt");
 
+        System.out.println("echo \"This is branch 2's change.\" >> example.txtvch");
+
 
 
 
