@@ -24,6 +24,8 @@ public class Main {
 
         System.out.println("I am in Main class of merge main 2 ");
 
+        System.out.println("echo \"This is branch 2's change.\" >> example.txt");
+
 
 
 
